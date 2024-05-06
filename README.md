@@ -1,5 +1,5 @@
-Menginstal Java 8 sekaligus download file input  https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/0/2/2.txt
-Memformat Sistem File HDFS dengan membuat direktori penyimpanan dan versi awal NameNodes
+1. Menginstal Java 8 sekaligus download file input  https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/0/2/2.txt
+2. Memformat Sistem File HDFS dengan membuat direktori penyimpanan dan versi awal NameNodes
 Memantau cluster Hadoop dengan perintah admin hadoop
 Membuat MapReduce
 Membuat direktori di HDFS
